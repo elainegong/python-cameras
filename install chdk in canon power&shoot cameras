@@ -1,0 +1,13 @@
+Infomation extracted from website: http://chdk.setepontos.com/index.php?topic=12321.msg126271#msg126271
+
+Installation methods are listed here: http://chdk.wikia.com/wiki/Prepare_your_SD_card
+
+There is an even simpler method (if you're not using a Mac and card is smaller than 64G):
+- format SD card in camera, selection settings -> format
+- extract zip to card (all files and directories)
+- start cam with the PLAYBACK button, press MENU, locate "Firm update" in the bottom of the menu, execute it
+  -> cam will reboot, CHDK will start
+- change to normal play mode, then MENU to enter the CHDK menu
+- navigate to "Miscellaneous stuff" -> "SD Card" and execute "Make card bootable"
+- switch off the cam, take out the card, lock it, put it back in
+- CHDK will automatically start from now on
