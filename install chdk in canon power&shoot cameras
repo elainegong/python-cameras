@@ -11,3 +11,6 @@ There is an even simpler method (if you're not using a Mac and card is smaller t
 - navigate to "Miscellaneous stuff" -> "SD Card" and execute "Make card bootable"
 - switch off the cam, take out the card, lock it, put it back in
 - CHDK will automatically start from now on
+
+The chdk file for canon IXUS, can be found from this following link:
+http://chdk.setepontos.com/index.php?topic=12321.msg126202#msg126202
